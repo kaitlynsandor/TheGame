@@ -1,16 +1,16 @@
 from play import *
 from preference import *
-from strategies import *
+from leastharmstrat import *
 
 class Player:
 
-    def __init__(self):
+    def __init__(self, strategy):
         self.cards_in_hand = []
-        self.strategy = Strategies()
+        self.strategy = strategy
 
     def make_play(self, piles, preferences):
         plays, plays_by_card, self_preferences = self.get_all_possible_moves(piles)
-        cards_played = self.strategy.make_least_harm_play(self.cards_in_hand, plays, plays_by_card, self_preferences, preferences)
+        cards_played = self.strategy.make_play(self.cards_in_hand, plays, plays_by_card, self_preferences, preferences)
 
         return cards_played
     def update_cards_in_hand(self, cards_played):
@@ -53,3 +53,12 @@ class Player:
     def pick(self, value, deck):
         for i in range(0, value):
             self.cards_in_hand.append(deck.get_item())
+
+    def is_game_over(self, piles):
+        for pile in piles:
+            for card in self.cards_in_hand:
+                if pile.start_val == 1 and card > pile.current_value:
+                    return False
+                elif pile.start_val == 100 and card < pile.current_value:
+                    return False
+        return True

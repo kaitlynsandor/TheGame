@@ -1,9 +1,10 @@
 from preference import *
+from strategy import *
 
-class Strategies:
+class LeastHarmStrat(Strategy):
 
     def __init__(self):
-        pass
+        super().__init__()
 
     def get_pref_by_pile(self, preferences):
         pref_by_pile = [Preference(0, 100), Preference(1, 100), Preference(2, 100), Preference(3, 100)]
@@ -19,7 +20,7 @@ class Strategies:
                 viable_moves.append(self_pref_by_pile[i])
         return viable_moves
 
-    def make_least_harm_play(self, cards_in_hand, plays, plays_by_card, self_preferences, preferences):
+    def make_play(self, cards_in_hand, plays, plays_by_card, self_preferences, preferences):
         # get top preference for each by pile
         # if your preference is better for the pile add it to a viable play list
         # play two best from viable play list
@@ -39,3 +40,4 @@ class Strategies:
         if len(optimal_moves) > 1:
             # make those moves
             pass
+        return []
