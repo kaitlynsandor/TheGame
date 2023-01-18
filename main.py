@@ -22,5 +22,6 @@ if __name__ == "__main__":
     #     player.get_preferences()
     #     determine play
     #     make play
+    #     update hand
     #     draw new cards
     #     move to next player

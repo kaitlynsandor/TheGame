@@ -1,5 +1,7 @@
 class Pile:
     played_cards = []
+    completed_low = 1
+    completed_high = 100
 
     def __init__(self, start_val):
         self.current_value = start_val

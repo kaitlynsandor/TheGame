@@ -1,14 +1,21 @@
 from play import *
 from preference import *
+from strategies import *
 
 class Player:
 
     def __init__(self):
         self.cards_in_hand = []
+        self.strategy = Strategies()
 
     def make_play(self, piles, preferences):
         plays, plays_by_card, self_preferences = self.get_all_possible_moves(piles)
+        cards_played = self.strategy.make_least_harm_play(self.cards_in_hand, plays, plays_by_card, self_preferences, preferences)
 
+        return cards_played
+    def update_cards_in_hand(self, cards_played):
+        for card in cards_played:
+            self.cards_in_hand.remove(card)
 
     def get_all_possible_moves(self, piles):
         self.cards_in_hand.sort()
