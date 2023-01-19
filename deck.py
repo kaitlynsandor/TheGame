@@ -2,7 +2,7 @@ import random
 
 class Deck:
     def __init__(self):
-        self.deck = list(range(2,99))
+        self.deck = list(range(2, 100))
 
     def shuffle_deck(self):
         random.shuffle(self.deck)
@@ -15,3 +15,9 @@ class Deck:
 
     def get_item(self):
         return self.deck.pop()
+
+    def get_num_to_play(self):
+        if self.empty_deck():
+            return 1
+        else:
+            return 2

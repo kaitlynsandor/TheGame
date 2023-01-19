@@ -3,7 +3,8 @@ class Pile:
     completed_low = 1
     completed_high = 100
 
-    def __init__(self, start_val):
+    def __init__(self, name, start_val):
+        self.name = name
         self.current_value = start_val
         self.start_val = start_val
         self.pile_cards = [start_val]
@@ -17,3 +18,6 @@ class Pile:
             self.current_value = card
         else:
             self.current_value = card
+
+    def __repr__(self):
+        return str(self.name) +  ' ' + str(self.pile_cards)
