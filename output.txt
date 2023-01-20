@@ -1,0 +1,434 @@
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100]
+3 [100]
+
+Player 0 Hand [99, 98, 97, 96, 95, 94]
+Player 1 Hand [93, 92, 91, 90, 89, 88]
+Player 2 Hand [87, 86, 85, 84, 83, 82]
+Player 3 Hand [81, 80, 79, 78, 77, 76]
+
+CARDS LEFT IN DECK 74
+PLAYER UP NEXT 0
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 97 damage 1, PLAY pile: 3 card: 99 damage 1, PLAY pile: 2 card: 96 damage 2, PLAY pile: 3 card: 98 damage 2, PLAY pile: 2 card: 95 damage 3, PLAY pile: 2 card: 94 damage 4]
+played cards [99, 98, 97]
+optimal plays loop [PLAY pile: 3 card: 99 damage 1, PLAY pile: 2 card: 96 damage 2, PLAY pile: 3 card: 98 damage 2, PLAY pile: 2 card: 95 damage 3, PLAY pile: 2 card: 94 damage 4]
+played cards [99, 98, 97, 96]
+optimal plays loop [PLAY pile: 3 card: 98 damage 2, PLAY pile: 2 card: 95 damage 3, PLAY pile: 2 card: 94 damage 4]
+played cards [99, 98, 97, 96, 95]
+optimal plays loop [PLAY pile: 2 card: 94 damage 4]
+played cards [99, 98, 97, 96, 95, 94]
+optimal plays loop []
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94]
+3 [100]
+
+Player 0 Hand [75, 74, 73, 72, 71, 70]
+Player 1 Hand [88, 89, 90, 91, 92, 93]
+Player 2 Hand [82, 83, 84, 85, 86, 87]
+Player 3 Hand [76, 77, 78, 79, 80, 81]
+
+CARDS LEFT IN DECK 68
+PLAYER UP NEXT 1
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 91 damage 1, PLAY pile: 2 card: 90 damage 2, PLAY pile: 2 card: 89 damage 3, PLAY pile: 2 card: 88 damage 4, PLAY pile: 3 card: 93 damage 7, PLAY pile: 3 card: 92 damage 8]
+played cards [93, 92, 91]
+optimal plays loop [PLAY pile: 2 card: 90 damage 2, PLAY pile: 2 card: 89 damage 3, PLAY pile: 2 card: 88 damage 4, PLAY pile: 3 card: 93 damage 7, PLAY pile: 3 card: 92 damage 8]
+played cards [93, 92, 91, 90]
+optimal plays loop [PLAY pile: 2 card: 89 damage 3, PLAY pile: 2 card: 88 damage 4, PLAY pile: 3 card: 93 damage 7, PLAY pile: 3 card: 92 damage 8]
+played cards [93, 92, 91, 90, 89]
+optimal plays loop [PLAY pile: 2 card: 88 damage 4, PLAY pile: 3 card: 93 damage 7, PLAY pile: 3 card: 92 damage 8]
+played cards [93, 92, 91, 90, 89, 88]
+optimal plays loop [PLAY pile: 3 card: 93 damage 7, PLAY pile: 3 card: 92 damage 8]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88]
+3 [100]
+
+Player 0 Hand [70, 71, 72, 73, 74, 75]
+Player 1 Hand [69, 68, 67, 66, 65, 64]
+Player 2 Hand [82, 83, 84, 85, 86, 87]
+Player 3 Hand [76, 77, 78, 79, 80, 81]
+
+CARDS LEFT IN DECK 62
+PLAYER UP NEXT 2
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 85 damage 1, PLAY pile: 2 card: 84 damage 2, PLAY pile: 2 card: 83 damage 3, PLAY pile: 2 card: 82 damage 4, PLAY pile: 3 card: 87 damage 13, PLAY pile: 3 card: 86 damage 14]
+played cards [87, 86, 85]
+optimal plays loop [PLAY pile: 2 card: 84 damage 2, PLAY pile: 2 card: 83 damage 3, PLAY pile: 2 card: 82 damage 4, PLAY pile: 3 card: 87 damage 13, PLAY pile: 3 card: 86 damage 14]
+played cards [87, 86, 85, 84]
+optimal plays loop [PLAY pile: 2 card: 83 damage 3, PLAY pile: 2 card: 82 damage 4, PLAY pile: 3 card: 87 damage 13, PLAY pile: 3 card: 86 damage 14]
+played cards [87, 86, 85, 84, 83]
+optimal plays loop [PLAY pile: 2 card: 82 damage 4, PLAY pile: 3 card: 87 damage 13, PLAY pile: 3 card: 86 damage 14]
+played cards [87, 86, 85, 84, 83, 82]
+optimal plays loop [PLAY pile: 3 card: 87 damage 13, PLAY pile: 3 card: 86 damage 14]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82]
+3 [100]
+
+Player 0 Hand [70, 71, 72, 73, 74, 75]
+Player 1 Hand [64, 65, 66, 67, 68, 69]
+Player 2 Hand [63, 62, 61, 60, 59, 58]
+Player 3 Hand [76, 77, 78, 79, 80, 81]
+
+CARDS LEFT IN DECK 56
+PLAYER UP NEXT 3
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 79 damage 1, PLAY pile: 2 card: 78 damage 2, PLAY pile: 2 card: 77 damage 3, PLAY pile: 2 card: 76 damage 4, PLAY pile: 3 card: 81 damage 19, PLAY pile: 3 card: 80 damage 20]
+played cards [81, 80, 79]
+optimal plays loop [PLAY pile: 2 card: 78 damage 2, PLAY pile: 2 card: 77 damage 3, PLAY pile: 2 card: 76 damage 4, PLAY pile: 3 card: 81 damage 19, PLAY pile: 3 card: 80 damage 20]
+played cards [81, 80, 79, 78]
+optimal plays loop [PLAY pile: 2 card: 77 damage 3, PLAY pile: 2 card: 76 damage 4, PLAY pile: 3 card: 81 damage 19, PLAY pile: 3 card: 80 damage 20]
+played cards [81, 80, 79, 78, 77]
+optimal plays loop [PLAY pile: 2 card: 76 damage 4, PLAY pile: 3 card: 81 damage 19, PLAY pile: 3 card: 80 damage 20]
+played cards [81, 80, 79, 78, 77, 76]
+optimal plays loop [PLAY pile: 3 card: 81 damage 19, PLAY pile: 3 card: 80 damage 20]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76]
+3 [100]
+
+Player 0 Hand [70, 71, 72, 73, 74, 75]
+Player 1 Hand [64, 65, 66, 67, 68, 69]
+Player 2 Hand [58, 59, 60, 61, 62, 63]
+Player 3 Hand [57, 56, 55, 54, 53, 52]
+
+CARDS LEFT IN DECK 50
+PLAYER UP NEXT 0
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 73 damage 1, PLAY pile: 2 card: 72 damage 2, PLAY pile: 2 card: 71 damage 3, PLAY pile: 2 card: 70 damage 4, PLAY pile: 3 card: 75 damage 25, PLAY pile: 3 card: 74 damage 26]
+played cards [75, 74, 73]
+optimal plays loop [PLAY pile: 2 card: 72 damage 2, PLAY pile: 2 card: 71 damage 3, PLAY pile: 2 card: 70 damage 4, PLAY pile: 3 card: 75 damage 25, PLAY pile: 3 card: 74 damage 26]
+played cards [75, 74, 73, 72]
+optimal plays loop [PLAY pile: 2 card: 71 damage 3, PLAY pile: 2 card: 70 damage 4, PLAY pile: 3 card: 75 damage 25, PLAY pile: 3 card: 74 damage 26]
+played cards [75, 74, 73, 72, 71]
+optimal plays loop [PLAY pile: 2 card: 70 damage 4, PLAY pile: 3 card: 75 damage 25, PLAY pile: 3 card: 74 damage 26]
+played cards [75, 74, 73, 72, 71, 70]
+optimal plays loop [PLAY pile: 3 card: 75 damage 25, PLAY pile: 3 card: 74 damage 26]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70]
+3 [100]
+
+Player 0 Hand [51, 50, 49, 48, 47, 46]
+Player 1 Hand [64, 65, 66, 67, 68, 69]
+Player 2 Hand [58, 59, 60, 61, 62, 63]
+Player 3 Hand [52, 53, 54, 55, 56, 57]
+
+CARDS LEFT IN DECK 44
+PLAYER UP NEXT 1
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 67 damage 1, PLAY pile: 2 card: 66 damage 2, PLAY pile: 2 card: 65 damage 3, PLAY pile: 2 card: 64 damage 4, PLAY pile: 3 card: 69 damage 31, PLAY pile: 3 card: 68 damage 32]
+played cards [69, 68, 67]
+optimal plays loop [PLAY pile: 2 card: 66 damage 2, PLAY pile: 2 card: 65 damage 3, PLAY pile: 2 card: 64 damage 4, PLAY pile: 3 card: 69 damage 31, PLAY pile: 3 card: 68 damage 32]
+played cards [69, 68, 67, 66]
+optimal plays loop [PLAY pile: 2 card: 65 damage 3, PLAY pile: 2 card: 64 damage 4, PLAY pile: 3 card: 69 damage 31, PLAY pile: 3 card: 68 damage 32]
+played cards [69, 68, 67, 66, 65]
+optimal plays loop [PLAY pile: 2 card: 64 damage 4, PLAY pile: 3 card: 69 damage 31, PLAY pile: 3 card: 68 damage 32]
+played cards [69, 68, 67, 66, 65, 64]
+optimal plays loop [PLAY pile: 3 card: 69 damage 31, PLAY pile: 3 card: 68 damage 32]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64]
+3 [100]
+
+Player 0 Hand [46, 47, 48, 49, 50, 51]
+Player 1 Hand [45, 44, 43, 42, 41, 40]
+Player 2 Hand [58, 59, 60, 61, 62, 63]
+Player 3 Hand [52, 53, 54, 55, 56, 57]
+
+CARDS LEFT IN DECK 38
+PLAYER UP NEXT 2
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 61 damage 1, PLAY pile: 2 card: 60 damage 2, PLAY pile: 2 card: 59 damage 3, PLAY pile: 2 card: 58 damage 4, PLAY pile: 3 card: 63 damage 37, PLAY pile: 3 card: 62 damage 38]
+played cards [63, 62, 61]
+optimal plays loop [PLAY pile: 2 card: 60 damage 2, PLAY pile: 2 card: 59 damage 3, PLAY pile: 2 card: 58 damage 4, PLAY pile: 3 card: 63 damage 37, PLAY pile: 3 card: 62 damage 38]
+played cards [63, 62, 61, 60]
+optimal plays loop [PLAY pile: 2 card: 59 damage 3, PLAY pile: 2 card: 58 damage 4, PLAY pile: 3 card: 63 damage 37, PLAY pile: 3 card: 62 damage 38]
+played cards [63, 62, 61, 60, 59]
+optimal plays loop [PLAY pile: 2 card: 58 damage 4, PLAY pile: 3 card: 63 damage 37, PLAY pile: 3 card: 62 damage 38]
+played cards [63, 62, 61, 60, 59, 58]
+optimal plays loop [PLAY pile: 3 card: 63 damage 37, PLAY pile: 3 card: 62 damage 38]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58]
+3 [100]
+
+Player 0 Hand [46, 47, 48, 49, 50, 51]
+Player 1 Hand [40, 41, 42, 43, 44, 45]
+Player 2 Hand [39, 38, 37, 36, 35, 34]
+Player 3 Hand [52, 53, 54, 55, 56, 57]
+
+CARDS LEFT IN DECK 32
+PLAYER UP NEXT 3
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 55 damage 1, PLAY pile: 2 card: 54 damage 2, PLAY pile: 2 card: 53 damage 3, PLAY pile: 2 card: 52 damage 4, PLAY pile: 3 card: 57 damage 43, PLAY pile: 3 card: 56 damage 44]
+played cards [57, 56, 55]
+optimal plays loop [PLAY pile: 2 card: 54 damage 2, PLAY pile: 2 card: 53 damage 3, PLAY pile: 2 card: 52 damage 4, PLAY pile: 3 card: 57 damage 43, PLAY pile: 3 card: 56 damage 44]
+played cards [57, 56, 55, 54]
+optimal plays loop [PLAY pile: 2 card: 53 damage 3, PLAY pile: 2 card: 52 damage 4, PLAY pile: 3 card: 57 damage 43, PLAY pile: 3 card: 56 damage 44]
+played cards [57, 56, 55, 54, 53]
+optimal plays loop [PLAY pile: 2 card: 52 damage 4, PLAY pile: 3 card: 57 damage 43, PLAY pile: 3 card: 56 damage 44]
+played cards [57, 56, 55, 54, 53, 52]
+optimal plays loop [PLAY pile: 3 card: 57 damage 43, PLAY pile: 3 card: 56 damage 44]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52]
+3 [100]
+
+Player 0 Hand [46, 47, 48, 49, 50, 51]
+Player 1 Hand [40, 41, 42, 43, 44, 45]
+Player 2 Hand [34, 35, 36, 37, 38, 39]
+Player 3 Hand [33, 32, 31, 30, 29, 28]
+
+CARDS LEFT IN DECK 26
+PLAYER UP NEXT 0
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 49 damage 1, PLAY pile: 2 card: 48 damage 2, PLAY pile: 2 card: 47 damage 3, PLAY pile: 2 card: 46 damage 4, PLAY pile: 0 card: 50 damage 49, PLAY pile: 3 card: 51 damage 49]
+played cards [51, 50, 49]
+optimal plays loop [PLAY pile: 2 card: 48 damage 2, PLAY pile: 2 card: 47 damage 3, PLAY pile: 2 card: 46 damage 4, PLAY pile: 0 card: 50 damage 49, PLAY pile: 3 card: 51 damage 49]
+played cards [51, 50, 49, 48]
+optimal plays loop [PLAY pile: 2 card: 47 damage 3, PLAY pile: 2 card: 46 damage 4, PLAY pile: 0 card: 50 damage 49, PLAY pile: 3 card: 51 damage 49]
+played cards [51, 50, 49, 48, 47]
+optimal plays loop [PLAY pile: 2 card: 46 damage 4, PLAY pile: 0 card: 50 damage 49, PLAY pile: 3 card: 51 damage 49]
+played cards [51, 50, 49, 48, 47, 46]
+optimal plays loop [PLAY pile: 0 card: 50 damage 49, PLAY pile: 3 card: 51 damage 49]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46]
+3 [100]
+
+Player 0 Hand [27, 26, 25, 24, 23, 22]
+Player 1 Hand [40, 41, 42, 43, 44, 45]
+Player 2 Hand [34, 35, 36, 37, 38, 39]
+Player 3 Hand [28, 29, 30, 31, 32, 33]
+
+CARDS LEFT IN DECK 20
+PLAYER UP NEXT 1
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 43 damage 1, PLAY pile: 2 card: 42 damage 2, PLAY pile: 2 card: 41 damage 3, PLAY pile: 2 card: 40 damage 4, PLAY pile: 0 card: 44 damage 43, PLAY pile: 0 card: 45 damage 44]
+played cards [45, 44, 43]
+optimal plays loop [PLAY pile: 2 card: 42 damage 2, PLAY pile: 2 card: 41 damage 3, PLAY pile: 2 card: 40 damage 4, PLAY pile: 0 card: 44 damage 43, PLAY pile: 0 card: 45 damage 44]
+played cards [45, 44, 43, 42]
+optimal plays loop [PLAY pile: 2 card: 41 damage 3, PLAY pile: 2 card: 40 damage 4, PLAY pile: 0 card: 44 damage 43, PLAY pile: 0 card: 45 damage 44]
+played cards [45, 44, 43, 42, 41]
+optimal plays loop [PLAY pile: 2 card: 40 damage 4, PLAY pile: 0 card: 44 damage 43, PLAY pile: 0 card: 45 damage 44]
+played cards [45, 44, 43, 42, 41, 40]
+optimal plays loop [PLAY pile: 0 card: 44 damage 43, PLAY pile: 0 card: 45 damage 44]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40]
+3 [100]
+
+Player 0 Hand [22, 23, 24, 25, 26, 27]
+Player 1 Hand [21, 20, 19, 18, 17, 16]
+Player 2 Hand [34, 35, 36, 37, 38, 39]
+Player 3 Hand [28, 29, 30, 31, 32, 33]
+
+CARDS LEFT IN DECK 14
+PLAYER UP NEXT 2
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 37 damage 1, PLAY pile: 2 card: 36 damage 2, PLAY pile: 2 card: 35 damage 3, PLAY pile: 2 card: 34 damage 4, PLAY pile: 0 card: 38 damage 37, PLAY pile: 0 card: 39 damage 38]
+played cards [39, 38, 37]
+optimal plays loop [PLAY pile: 2 card: 36 damage 2, PLAY pile: 2 card: 35 damage 3, PLAY pile: 2 card: 34 damage 4, PLAY pile: 0 card: 38 damage 37, PLAY pile: 0 card: 39 damage 38]
+played cards [39, 38, 37, 36]
+optimal plays loop [PLAY pile: 2 card: 35 damage 3, PLAY pile: 2 card: 34 damage 4, PLAY pile: 0 card: 38 damage 37, PLAY pile: 0 card: 39 damage 38]
+played cards [39, 38, 37, 36, 35]
+optimal plays loop [PLAY pile: 2 card: 34 damage 4, PLAY pile: 0 card: 38 damage 37, PLAY pile: 0 card: 39 damage 38]
+played cards [39, 38, 37, 36, 35, 34]
+optimal plays loop [PLAY pile: 0 card: 38 damage 37, PLAY pile: 0 card: 39 damage 38]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34]
+3 [100]
+
+Player 0 Hand [22, 23, 24, 25, 26, 27]
+Player 1 Hand [16, 17, 18, 19, 20, 21]
+Player 2 Hand [15, 14, 13, 12, 11, 10]
+Player 3 Hand [28, 29, 30, 31, 32, 33]
+
+CARDS LEFT IN DECK 8
+PLAYER UP NEXT 3
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 31 damage 1, PLAY pile: 2 card: 30 damage 2, PLAY pile: 2 card: 29 damage 3, PLAY pile: 2 card: 28 damage 4, PLAY pile: 0 card: 32 damage 31, PLAY pile: 0 card: 33 damage 32]
+played cards [33, 32, 31]
+optimal plays loop [PLAY pile: 2 card: 30 damage 2, PLAY pile: 2 card: 29 damage 3, PLAY pile: 2 card: 28 damage 4, PLAY pile: 0 card: 32 damage 31, PLAY pile: 0 card: 33 damage 32]
+played cards [33, 32, 31, 30]
+optimal plays loop [PLAY pile: 2 card: 29 damage 3, PLAY pile: 2 card: 28 damage 4, PLAY pile: 0 card: 32 damage 31, PLAY pile: 0 card: 33 damage 32]
+played cards [33, 32, 31, 30, 29]
+optimal plays loop [PLAY pile: 2 card: 28 damage 4, PLAY pile: 0 card: 32 damage 31, PLAY pile: 0 card: 33 damage 32]
+played cards [33, 32, 31, 30, 29, 28]
+optimal plays loop [PLAY pile: 0 card: 32 damage 31, PLAY pile: 0 card: 33 damage 32]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28]
+3 [100]
+
+Player 0 Hand [22, 23, 24, 25, 26, 27]
+Player 1 Hand [16, 17, 18, 19, 20, 21]
+Player 2 Hand [10, 11, 12, 13, 14, 15]
+Player 3 Hand [9, 8, 7, 6, 5, 4]
+
+CARDS LEFT IN DECK 2
+PLAYER UP NEXT 0
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 25 damage 1, PLAY pile: 2 card: 24 damage 2, PLAY pile: 2 card: 23 damage 3, PLAY pile: 2 card: 22 damage 4, PLAY pile: 0 card: 26 damage 25, PLAY pile: 0 card: 27 damage 26]
+played cards [27, 26, 25]
+optimal plays loop [PLAY pile: 2 card: 24 damage 2, PLAY pile: 2 card: 23 damage 3, PLAY pile: 2 card: 22 damage 4, PLAY pile: 0 card: 26 damage 25, PLAY pile: 0 card: 27 damage 26]
+played cards [27, 26, 25, 24]
+optimal plays loop [PLAY pile: 2 card: 23 damage 3, PLAY pile: 2 card: 22 damage 4, PLAY pile: 0 card: 26 damage 25, PLAY pile: 0 card: 27 damage 26]
+played cards [27, 26, 25, 24, 23]
+optimal plays loop [PLAY pile: 2 card: 22 damage 4, PLAY pile: 0 card: 26 damage 25, PLAY pile: 0 card: 27 damage 26]
+played cards [27, 26, 25, 24, 23, 22]
+optimal plays loop [PLAY pile: 0 card: 26 damage 25, PLAY pile: 0 card: 27 damage 26]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22]
+3 [100]
+
+Player 0 Hand [3, 2]
+Player 1 Hand [16, 17, 18, 19, 20, 21]
+Player 2 Hand [10, 11, 12, 13, 14, 15]
+Player 3 Hand [4, 5, 6, 7, 8, 9]
+
+CARDS LEFT IN DECK 0
+PLAYER UP NEXT 1
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 20 damage 1, PLAY pile: 2 card: 19 damage 2, PLAY pile: 2 card: 18 damage 3, PLAY pile: 2 card: 17 damage 4, PLAY pile: 2 card: 16 damage 5, PLAY pile: 0 card: 21 damage 20]
+played cards [21, 20]
+optimal plays loop [PLAY pile: 2 card: 19 damage 2, PLAY pile: 2 card: 18 damage 3, PLAY pile: 2 card: 17 damage 4, PLAY pile: 2 card: 16 damage 5, PLAY pile: 0 card: 21 damage 20]
+played cards [21, 20, 19]
+optimal plays loop [PLAY pile: 2 card: 18 damage 3, PLAY pile: 2 card: 17 damage 4, PLAY pile: 2 card: 16 damage 5, PLAY pile: 0 card: 21 damage 20]
+played cards [21, 20, 19, 18]
+optimal plays loop [PLAY pile: 2 card: 17 damage 4, PLAY pile: 2 card: 16 damage 5, PLAY pile: 0 card: 21 damage 20]
+played cards [21, 20, 19, 18, 17]
+optimal plays loop [PLAY pile: 2 card: 16 damage 5, PLAY pile: 0 card: 21 damage 20]
+played cards [21, 20, 19, 18, 17, 16]
+optimal plays loop [PLAY pile: 0 card: 21 damage 20]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16]
+3 [100]
+
+Player 0 Hand [2, 3]
+Player 1 Hand []
+Player 2 Hand [10, 11, 12, 13, 14, 15]
+Player 3 Hand [4, 5, 6, 7, 8, 9]
+
+CARDS LEFT IN DECK 0
+PLAYER UP NEXT 2
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 14 damage 1, PLAY pile: 2 card: 13 damage 2, PLAY pile: 2 card: 12 damage 3, PLAY pile: 2 card: 11 damage 4, PLAY pile: 2 card: 10 damage 5, PLAY pile: 0 card: 15 damage 14]
+played cards [15, 14]
+optimal plays loop [PLAY pile: 2 card: 13 damage 2, PLAY pile: 2 card: 12 damage 3, PLAY pile: 2 card: 11 damage 4, PLAY pile: 2 card: 10 damage 5, PLAY pile: 0 card: 15 damage 14]
+played cards [15, 14, 13]
+optimal plays loop [PLAY pile: 2 card: 12 damage 3, PLAY pile: 2 card: 11 damage 4, PLAY pile: 2 card: 10 damage 5, PLAY pile: 0 card: 15 damage 14]
+played cards [15, 14, 13, 12]
+optimal plays loop [PLAY pile: 2 card: 11 damage 4, PLAY pile: 2 card: 10 damage 5, PLAY pile: 0 card: 15 damage 14]
+played cards [15, 14, 13, 12, 11]
+optimal plays loop [PLAY pile: 2 card: 10 damage 5, PLAY pile: 0 card: 15 damage 14]
+played cards [15, 14, 13, 12, 11, 10]
+optimal plays loop [PLAY pile: 0 card: 15 damage 14]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10]
+3 [100]
+
+Player 0 Hand [2, 3]
+Player 1 Hand []
+Player 2 Hand []
+Player 3 Hand [4, 5, 6, 7, 8, 9]
+
+CARDS LEFT IN DECK 0
+PLAYER UP NEXT 3
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 2 card: 8 damage 1, PLAY pile: 2 card: 7 damage 2, PLAY pile: 0 card: 4 damage 3, PLAY pile: 2 card: 6 damage 3, PLAY pile: 0 card: 5 damage 4, PLAY pile: 0 card: 9 damage 8]
+played cards [9, 8]
+optimal plays loop [PLAY pile: 2 card: 7 damage 2, PLAY pile: 0 card: 4 damage 3, PLAY pile: 2 card: 6 damage 3, PLAY pile: 0 card: 5 damage 4, PLAY pile: 0 card: 9 damage 8]
+played cards [9, 8, 7]
+optimal plays loop [PLAY pile: 0 card: 4 damage 3, PLAY pile: 2 card: 6 damage 3, PLAY pile: 0 card: 5 damage 4, PLAY pile: 0 card: 9 damage 8]
+played cards [9, 8, 7, 6]
+optimal plays loop [PLAY pile: 0 card: 5 damage 4, PLAY pile: 0 card: 9 damage 8]
+CURRENT GAME STATE 
+
+0 [1]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6]
+3 [100]
+
+Player 0 Hand [2, 3]
+Player 1 Hand []
+Player 2 Hand []
+Player 3 Hand [4, 5]
+
+CARDS LEFT IN DECK 0
+PLAYER UP NEXT 0
+
+
+OPTIMAL PLAYS AFTER 2 [PLAY pile: 1 card: 2 damage 1, PLAY pile: 0 card: 3 damage 1]
+played cards [2, 3]
+optimal plays loop []
+GAME OVER! Score: 2
+
+FINAL GAME STATE 
+
+0 [1, 2, 3]
+1 [1]
+2 [100, 99, 98, 97, 96, 95, 94, 93, 92, 91, 90, 89, 88, 87, 86, 85, 84, 83, 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72, 71, 70, 69, 68, 67, 66, 65, 64, 63, 62, 61, 60, 59, 58, 57, 56, 55, 54, 53, 52, 51, 50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6]
+3 [100]
+
+Player 0 Hand []
+Player 1 Hand []
+Player 2 Hand []
+Player 3 Hand [4, 5]

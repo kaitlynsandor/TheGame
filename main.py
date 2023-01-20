@@ -5,7 +5,7 @@ from GameState import *
 
 if __name__ == "__main__":
     DECK = Deck()
-    DECK.shuffle_deck()
+    # DECK.shuffle_deck()
 
     pile_1_1 = Pile(0, 1)
     pile_1_2 = Pile(1, 1)
@@ -22,7 +22,6 @@ if __name__ == "__main__":
     i = 0
     current_player = players[i]
 
-    states = []
 
     while(not current_player.is_game_over(piles)):
         player_hands = []
@@ -43,18 +42,24 @@ if __name__ == "__main__":
         Player.GAME_OVER = game_over
 
         current_player.update_cards_in_hand(played_cards)
-        current_player.pick(len(played_cards), DECK)
 
-        player_hands = []
-        for player in players:
-            player_hands.append(player.cards_in_hand)
+        if not game_over:
+            current_player.pick(len(played_cards), DECK)
 
-        if i < 3:
-            i += 1
-        else:
-            i = 0
+            if i < 3:
+                i += 1
+            else:
+                i = 0
 
-        current_player = players[i]
-    print("GAME OVER! Score: " + str(DECK.deck_size()))
+            current_player = players[i]
 
+    total_cards_left_in_hands = 0
+    for hand in player_hands:
+        total_cards_left_in_hands += len(hand)
 
+    print("GAME OVER! Score: " + str(DECK.deck_size() + total_cards_left_in_hands) + '\n')
+    player_hands = []
+    for player in players:
+        player_hands.append(player.cards_in_hand)
+
+    print(GameState(DECK.empty_deck(), piles, player_hands, current_player.name, DECK, final_game_state=True))

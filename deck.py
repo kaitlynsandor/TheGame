@@ -14,7 +14,9 @@ class Deck:
         return len(self.deck) == 0
 
     def get_item(self):
-        return self.deck.pop()
+        if len(self.deck) > 0:
+            return self.deck.pop()
+        return None
 
     def get_num_to_play(self):
         if self.empty_deck():
